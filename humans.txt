@@ -1,9 +1,14 @@
 TEAM
 
-	Harry Roberts -- Designer/developer -- @csswizardry
+	Ian Thomas -- Creative Director -- @anatomic
 
 
 SITE
 
 	HTML
 	CSS
+
+CREDITS
+	
+	Based upon work by Harry Roberts -- @csswizardry
+	https://github.com/csswizardry/vanilla
